@@ -9,6 +9,7 @@
 - Web & App Development  
 - AI/ML Research  
 - 📫 How to reach
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ReddyPushpanjali)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba)
 
 
