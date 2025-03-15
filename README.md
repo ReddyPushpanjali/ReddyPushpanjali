@@ -8,9 +8,8 @@
 - Open Source Projects  
 - Web & App Development  
 - AI/ML Research  
-- 📫 How to reach me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](Your-LinkedIn-URL)  
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ReddyPushpanjali)  
+- 📫 How to reach
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba)
 
 
 - 😄 Pronouns: She/He
