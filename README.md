@@ -13,7 +13,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba)
 
 
-- 😄 Pronouns: She/He
+- 😄 Pronouns: She
 - ⚡ Fun fact: 
    😄 I love coding at midnight 🌙✨  
 
