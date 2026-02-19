@@ -6,9 +6,12 @@
 
 ## 🌐 Connect With Me
 
-🔗 LinkedIn: https://www.linkedin.com/in/your-link  
-💻 GitHub: https://github.com/ReddyPushpanjali  
-📧 Email: challaanjali047@gmail.com  
+## 🌐 Connect With Me
+
+[LinkedIn](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba/) | 
+[GitHub](https://github.com/ReddyPushpanjali) | 
+📧 challaanjali047@gmail.com
+  
 
 ---
 
