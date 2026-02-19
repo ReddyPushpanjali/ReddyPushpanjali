@@ -1,25 +1,49 @@
-- 👋 Hi, I’m @CHALLA REDDY PUSHPANJALI
-- 👀 I’m interested in
-  Web Development 🌐  
-  Machine Learning 🤖  
-  Open Source Contributions 🚀  
-- 🌱 I’m currently learning Computer science and Engineer-AI & ML 💻
-- 💞️ I’m looking to collaborate on
-- Open Source Projects  
-- Web & App Development  
-- AI/ML Research  
-- 📫 How to reach
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github)](https://github.com/ReddyPushpanjali)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba)
+# CHALLA REDDY PUSHPANJALI
 
+### 👩‍💻 B.Tech CSE Student | Computer Networks Enthusiast
 
-- 😄 Pronouns: She
-- ⚡ Fun fact: 
-   😄 I love coding at midnight 🌙✨  
+---
 
-   ![Profile Views](https://komarev.com/ghpvc/?username=ReddyPushpanjali&color=blue
+## 🌐 Connect With Me
 
-<!---
-ReddyPushpanjali/ReddyPushpanjali is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🔗 LinkedIn: https://www.linkedin.com/in/your-link  
+💻 GitHub: https://github.com/ReddyPushpanjali  
+📧 Email: challaanjali047@gmail.com  
+
+---
+
+## 💫 About Me
+
+I am passionate about understanding how systems communicate and how data flows across networks.  
+
+I have a strong foundation in Computer Networks and enjoy building practical networking-based programs.
+
+Currently improving problem-solving and programming skills using Java and Python.
+
+---
+
+## 🛠 Technical Skills
+
+### 💻 Programming
+- Java  
+- Python  
+
+### 🌐 Core Expertise
+- Computer Networks  
+- TCP/IP Concepts  
+- Socket Programming  
+- Routing Algorithms  
+- Basic HTTP Server Implementation  
+
+---
+
+## 🎯 Career Goals
+
+- Build advanced network-based systems  
+- Strengthen problem-solving skills  
+- Work on real-world technical projects  
+- Contribute to open-source  
+
+---
+
+⭐ Always learning. Always improving.
