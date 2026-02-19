@@ -5,8 +5,6 @@
 ---
 
 ## 🌐 Connect With Me
-
-
 [LinkedIn](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba/) |
 [GitHub](https://github.com/ReddyPushpanjali) |
 [LeetCode](https://leetcode.com/C_R_P_A_1/) |
