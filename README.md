@@ -6,12 +6,13 @@
 
 ## 🌐 Connect With Me
 
-## 🌐 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba/) | 
-[GitHub](https://github.com/ReddyPushpanjali) | 
+[LinkedIn](https://www.linkedin.com/in/challa-reddy-pushpanjali-881a612ba/) |
+[GitHub](https://github.com/ReddyPushpanjali) |
+[LeetCode](https://leetcode.com/C_R_P_A_1/) |
+[GeeksforGeeks](https://auth.geeksforgeeks.org/user/your-username/) |
 📧 challaanjali047@gmail.com
-  
+
 
 ---
 
